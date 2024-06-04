@@ -8,7 +8,7 @@ void main(){
 }
 
 class Student {
-  var rollNo;
+  var rollNo; 
   var name;
   var age;
   var marks;

@@ -9,6 +9,6 @@ void main(){
   print("Name is ${name}");
   print('${name.toUpperCase()}');
   print('${name.toLowerCase()}');
-  print('${name.lastIndexOf('a')}');
+  print('${name.lastIndexOf('a')}'); 
   print('${name.length}');
 }

@@ -7,7 +7,7 @@ void main(){
   print(name);
   print(name.runtimeType);
   print("Name is ${name} ");
-  stdout.write("Name is : ${name} \n");
+  stdout.write("Name is : ${name} \n"); 
 
   //Operators
   var a,b;
