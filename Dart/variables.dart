@@ -4,9 +4,9 @@ void main(){
   print("The value of a is ${a}");
   print(a.runtimeType);
 
-  //Type is inferred
+  //Type is inferred 
   var b = 10;
-  print(b);
+  print(b); 
   print(b.runtimeType); //Here if we try to change the data type of b... It will not allow us to do so.... 
 
   var d = 10.5;
